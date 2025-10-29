@@ -1,3 +1,8 @@
+https://no-olvido-x0d9.glide.page
+https://youtu.be/-SGTj1WO2Dk?si=QmX6hlbaxwmCSPZ7
+https://youtu.be/ljhd746DH5s?si=uibtbRJ4BauOOn99
+
+
 # No Olvido – Proyecto Parcial 3 (App No-Code con IA)
 
 ## 📌 Descripción
