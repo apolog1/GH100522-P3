@@ -1,0 +1,11 @@
+Crea una aplicación móvil llamada No Olvido para gestionar pagos de servicios básicos (agua, luz, internet, teléfono, cable y otros). 
+
+La aplicación debe incluir:
+- Inicio de sesión OTP por correo o SMS.
+- Pantallas: Pagos, Pendientes, Pagados, Detalles de Pago y Publicidad simulada.
+- En Detalles de Pago un botón “Pagar” que cambia Estado de Pendiente a Pagado y guarda la FechaPagado.
+- Los Pagos pasan automáticamente de Pendientes a Pagados al presionar el botón.
+- Mensajes de IA simulada básicos en Detalles de Pago:
+   • “No olvides pagar este servicio.”
+   • “Este pago se vence pronto.”
+   • “¡Bien hecho! Este pago ya está completado.”
